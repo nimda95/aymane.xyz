@@ -1,0 +1,19 @@
+{
+    "m.homeserver": {
+        "base_url": "https://matrix.aymane.xyz"
+    },
+    "m.identity_server": {
+        "base_url": "https://id.matrix.aymane.xyz"
+    },
+    "m.integrations": {
+         "managers": [
+             {
+                 "api_url": "https://dimension.t2bot.io/api/v1/scalar",
+                 "ui_url": "https://dimension.t2bot.io/element"
+             }
+         ]
+   },
+    "im.vector.riot.jitsi": {
+        "preferredDomain": "https://dimension.t2bot.io/widgets/jitsi"
+    }
+}
