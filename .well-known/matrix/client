@@ -3,7 +3,7 @@
         "base_url": "https://matrix.aymane.xyz"
     },
     "m.identity_server": {
-        "base_url": "https://id.matrix.aymane.xyz"
+        "base_url": "https://matrix.aymane.xyz"
     },
     "m.integrations": {
          "managers": [
