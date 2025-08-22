@@ -1,0 +1,14 @@
+{
+    "contacts": [
+        {
+            "email_address": "hi@aymane.xyz",
+            "matrix_id": "@aymane:aymane.xyz",
+            "role": "m.role.admin"
+        },
+        {
+            "email_address": "hi@aymane.xyz",
+            "role": "m.role.security"
+        }
+    ],
+    "_support_page": "https://example.org/support.html"
+}

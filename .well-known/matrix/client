@@ -2,7 +2,7 @@
     "m.homeserver": {
         "base_url": "https://matrix.aymane.xyz"
     },
-    "m.identity_server": {
+    "_m.identity_server": {
         "base_url": "https://matrix.aymane.xyz"
     },
     "m.integrations": {
@@ -15,5 +15,8 @@
    },
     "im.vector.riot.jitsi": {
         "preferredDomain": "https://dimension.t2bot.io/widgets/jitsi"
+    },
+    "org.matrix.msc3575.proxy": {
+        "url": "https://matrix.aymane.xyz"
     }
 }
